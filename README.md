@@ -19,10 +19,10 @@ This project is hosted on *GitHub Pages* / *Vercel*:
 
 ## Screenshots
 ### Desktop View:
-![Desktop View](images/portfolio.png)
+![Desktop View](image/portfolio.png)
 
 ### Mobile View:
-![Mobile View](images/mobile-screenshot.png)
+![Mobile View](image/mobile-screenshot.png)
 
 ## Testing & Validation
 - Tested responsiveness using *Chrome DevTools*.
