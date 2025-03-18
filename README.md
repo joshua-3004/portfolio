@@ -21,9 +21,6 @@ This project is hosted on *GitHub Pages* / *Vercel*:
 ### Desktop View:
 ![Desktop View](image/portfolio.png)
 
-### Mobile View:
-![Mobile View](image/mobile-screenshot.png)
-
 ## Testing & Validation
 - Tested responsiveness using *Chrome DevTools*.
 
